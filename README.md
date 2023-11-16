@@ -111,7 +111,7 @@ Question: What percent was the driver at fault?
   	who were determined to be at fault, not at fault, or unknown to be at fault, the data was compiled into a 
    	pie chart. 
 
-    	A pie chart was deemed most appropriate to present this data as it would show the overall impression of 
+	A pie chart was deemed most appropriate to present this data as it would show the overall impression of 
      	drivers at fault versus not at fault, leaving a sliver to represent the unknown fault status. Majority of 
       	the crash incidents in the dataset results in "yes," the driver was at fault. The total of drivers whose 
        	fault status was unknown was 4,538, showing a seemingly large quantity of data is not well represented, but
