@@ -84,6 +84,6 @@ categories of “suspected serious injury” and “fatal injuries”, the likel
 in each of the four different injury categories does, in general, increase with speed. However, this 
 is the case going from 5 mph to 50 mph, and again there is a drop off at 55 mph.
       Overall, to answer the question, “Do more injuries occur when the speed limit is higher?” The 
-answer is yes, injuries are, for the most part, more likely to occur at higher speed limits. 
+answer is yes, injuries are, for the most part, more likely to occur at higher speed limits.
 
 
