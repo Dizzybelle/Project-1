@@ -36,7 +36,8 @@ Question: Do more injuries occur when the speed limit is higher?
 	different speeds. The two most important columns from the dataset for answering this question are the 
 	speed limit column, which gives the posted speed limit, and injury severity, which gives if there was 
 	an injury or not as well as the injury severity. 
-        The speed limit category had speed limits ranging from 0 to 75, in increments of 5, giving 16 
+ 
+	The speed limit category had speed limits ranging from 0 to 75, in increments of 5, giving 16 
 	different speed limits. The speed limit category was not labeled as mph, but given that these data are 
 	from the US it can be assumed that speed limit is in mph. When an accident occurred in an area where 
 	there was no posted speed limit, such as in a parking lot the speed was coded in the data as 0. 
@@ -45,7 +46,8 @@ Question: Do more injuries occur when the speed limit is higher?
 	only 6 accidents that occurred at a speed limit of 70, and only 1 accident that occurred at the speed 
 	limit of 75. Therefore, both the 70 and 75 speed limit categories were dropped because there was not 
 	enough data to assess the likelihood of an accident occurring at these speeds.
-        The injury severity column included five categories, “no apparent injury”, “suspected minor 
+ 
+	The injury severity column included five categories, “no apparent injury”, “suspected minor 
 	injury”, “possible injury”, “suspected serious injury”, and “fatal injury”. One of the limitations of 
 	using these data to answer this question are the data mostly includes only what was suspected at the 
 	time of the accident. Someone could have been coded as having no apparent injury when they did have an 
@@ -61,6 +63,7 @@ Question: Do more injuries occur when the speed limit is higher?
 	groupby function to be used to count each type of injury by speed limit. From this dataframe the 
 	percent of vehicles who were in an accident that had any type of injury was calculated, as well as the 
 	percentages for each type of injury.
+ 
 	The results do show that, in general, when the speed limit is higher there does tend to be a 
 	greater likelihood on an injury. The graph titled “Speed Limit and % of Vehicles that had an Occupant 
 	with an Injury” saved as fig_speed_injury.png shows this. This graph has speed limit (mph) on the x-
@@ -74,7 +77,8 @@ Question: Do more injuries occur when the speed limit is higher?
 	65 mph, therefore these results could be from insufficient data. 3,870 accidents occurred at 55mph, 
 	relatively close to the number that occurred at 50 mph (4,555). Thus, this is providing some, albeit 
 	limited. that injury might not always increase with speed.
-        This question of injury and speed was examined further by breaking down the severity of injury. 
+ 
+	This question of injury and speed was examined further by breaking down the severity of injury. 
 	If all types of injuries, and particularly serious and fatal injuries are increasing with speed then 
 	this is giving further evidence to support not only the conclusion that injuries in general increase 
 	with speed, but all types of injuries increase with speed. The graph titled “Speed Limit and % of 
@@ -83,7 +87,8 @@ Question: Do more injuries occur when the speed limit is higher?
 	categories of “suspected serious injury” and “fatal injuries”, the likelihood of an injury occurring 
 	in each of the four different injury categories does, in general, increase with speed. However, this 
 	is the case going from 5 mph to 50 mph, and again there is a drop off at 55 mph.
-        Overall, to answer the question, “Do more injuries occur when the speed limit is higher?” The 
+ 
+	Overall, to answer the question, “Do more injuries occur when the speed limit is higher?” The 
 	answer is yes, injuries are, for the most part, more likely to occur at higher speed limits.
 
 Question: What make of car is most likely to get into a crash?
