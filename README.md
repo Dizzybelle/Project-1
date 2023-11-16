@@ -17,7 +17,7 @@ questions we answered are:
 
       Do more injuries occur when the speed limit is higher? 
       What make of car is most likely to get into a crash?
-      What percent was the driver at fault?
+      What percent of crashses was the driver at fault?
       What time of day do the most crashes occur?
       Is there a time of day when drivers are more distracted?
 
@@ -105,7 +105,7 @@ Question: What make of car is most likely to get into a crash?
  	18.6%. Given that Toyota is an incredibly common car found in the US this data is not surprising. The 
   	others following it are all makes also very common. 
 
-Question: What percent was the driver at fault?
+Question: What percent of crashes was the driver at fault?
 
  	After cleaning the dataset to simply reflect the total number of drivers and the total number of drivers 
   	who were determined to be at fault, not at fault, or unknown to be at fault, the data was compiled into a 
