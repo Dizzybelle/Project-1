@@ -15,10 +15,10 @@ questioned that we asked, with each member of the group answering a different qu
 format of the data, each group member cleaned the part of the data that they were using. The five 
 questions we answered are:
 
+      Do more injuries occur when the speed limit is higher? 
       What make of car is most likely to get into a crash?
       What percent was the driver at fault?
       What time of day do the most crashes occur?
-      Do more injuries occur when the speed limit is higher?
       Is there a time of day when drivers are more distracted?
 
 Ananlysis of the results for each question:
@@ -105,5 +105,21 @@ Question: What make of car is most likely to get into a crash?
  	18.6%. Given that Toyota is an incredibly common car found in the US this data is not surprising. The 
   	others following it are all makes also very common. 
 
+Question: What percent was the driver at fault?
+
+ 	After cleaning the dataset to simply reflect the total number of drivers and the total number of drivers 
+  	who were determined to be at fault, not at fault, or unknown to be at fault, the data was compiled into a 
+   	pie chart. 
+
+    	A pie chart was deemed most appropriate to present this data as it would show the overall impression of 
+     	drivers at fault versus not at fault, leaving a sliver to represent the unknown fault status. Majority of 
+      	the crash incidents in the dataset results in "yes," the driver was at fault. The total of drivers whose 
+       	fault status was unknown was 4,538, showing a seemingly large quantity of data is not well represented, but
+	in the pie chart, it is a small sample of 2.7% of the dataset. 
+
+ 	Upon reflection, these results are not surprsing. If you were to imagine for every vehicular accident that 
+  	involved more than one driver (typically two drivers/vehicles), at least one driver would be at fault, i.e. 50% 
+   	of the drivers involved in the incident. This data supports that generalization - 53.7% of the drivers in this 
+    	dataset were found to be at fault. 
 
 
