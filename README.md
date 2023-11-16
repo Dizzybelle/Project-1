@@ -25,7 +25,8 @@ Ananlysis of the results for each question:
 
 Question: Do more injuries occur when the speed limit is higher?
 
-	The files used to answer the question about speed and injuries are injuries_and_speed.ipynb for the code, and the graphs are fig_speed_injury.png and fig_speed_injury_severity.png.
+	The files used to answer the question about speed and injuries are injuries_and_speed.ipynb 
+for the code, and the graphs are fig_speed_injury.png and fig_speed_injury_severity.png.
       The total number of vehicles in accidents that were included in the analysis to answer this 
 question was 163,502, the speed limit categories of 0, 70, and 75 were dropped for reasons explained 
 below. A total number of 29,939 injuries were included. Giving a percentage of 18.31 for vehicles that 
