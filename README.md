@@ -117,7 +117,7 @@ Question: What percent of crashes was the driver at fault?
    	was unknown was 4,538, showing a seemingly large quantity of data is not well represented, but in the pie chart, it 
     is a small sample of 2.7% of the dataset. 
 
- 	Upon reflection, these results are not surprsing. If you were to imagine for every vehicular accident that 
+ 	Upon reflection, these results are not surprising. If you were to imagine for every vehicular accident that 
   	involved more than one driver (typically two drivers/vehicles), at least one driver would be at fault, i.e. 50% 
    	of the drivers involved in the incident. This data supports that generalization - 53.7% of the drivers in this 
     dataset were found to be at fault. 
