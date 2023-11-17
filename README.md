@@ -91,7 +91,7 @@ Question: Do more injuries occur when the speed limit is higher?
 	Overall, to answer the question, “Do more injuries occur when the speed limit is higher?” The 
 	answer is yes, injuries are, for the most part, more likely to occur at higher speed limits.
 
-Question: What make of car was most likely to get into a traffic accident?
+Question: What make of car got into the most crashes?
 
 	After compiling all of the data with just the make of the cars in this set there was so much that the 
 	percentages of each make were smaller than expected. 
@@ -101,7 +101,7 @@ Question: What make of car was most likely to get into a traffic accident?
   	the percentages were so small that it was best to compile everything else under an “other” category 
    	which was piled together and labeled accordingly. 
 
-	In the end, the answer came out to be that “Toyota” was the most likely make to get into a crash at 
+	In the end, the answer came out to be that “Toyota” cars were the most to get into a crash at 
  	18.6%. Given that Toyota is an incredibly common car found in the US this data is not surprising. The 
   	others following it are all makes also very common. 
 
