@@ -2,6 +2,8 @@
 Project Title: Assessing Crash Data from Montgomery County Maryland
 Team members: Jules Gikundiro, Isabelle Scrimsher, Matthew Pedroza, Tia Chesley, Brian Fitzpatrick
 
+Our presentation is titled "Maryland Crash Data"
+
 For our project we analyzed vehicle accident data from Montgomery County, Maryland. The dataset we used 
 is called “Crash Reporting – Drivers Data”, we downloaded the csv file for the data at 
 (https://catalog.data.gov/dataset/crash-reporting-drivers-data).
