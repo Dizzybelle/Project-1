@@ -17,11 +17,11 @@ questioned that we asked, with each member of the group answering a different qu
 format of the data, each group member cleaned the part of the data that they were using. The five 
 questions we answered are:
 
-      Do more injuries occur when the speed limit is higher? 
-      What make of car is most likely to get into a crash?
-      What percent of crashses was the driver at fault?
-      What time of day do the most crashes occur?
-      Is there a time of day when drivers are more distracted?
+      Do more injuries occur when the speed limit is higher? (Brian)
+      What make of car is most likely to get into a crash? (Izzy)
+      What percent of crashses was the driver at fault? (Tia)
+      What time of day do the most crashes occur? (Matthew)
+      What is the most frequent driver distraction? (Jules)
 
 Ananlysis of the results for each question:
 
